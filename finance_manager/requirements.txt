@@ -1,0 +1,15 @@
+# Personal Finance Manager — Python Dependencies
+# All modules used are part of the Python Standard Library.
+# No third-party packages are required to run the application.
+
+# Standard library modules used:
+# - csv          (data persistence)
+# - os           (file paths, directory creation)
+# - shutil       (file copy for backup/restore)
+# - datetime     (date validation, formatting)
+# - collections  (defaultdict for grouping)
+# - re           (reserved for future validation use)
+# - sys          (path manipulation in main.py)
+
+# Optional — install only if you want to run the test suite:
+# pytest==7.4.0
